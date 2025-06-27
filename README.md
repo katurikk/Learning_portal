@@ -220,12 +220,3 @@ Authorization: Bearer <your-jwt-token>
 Backend Developer — MERN Stack
 
 
----
-
-
-```
-
----
-
-Let me know if you want a `GitHub`-friendly **markdown badge section** or a **frontend README** next!
-```
